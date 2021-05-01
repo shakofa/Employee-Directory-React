@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shakofa/Employee-Directory-React/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/shakofa/Employee-Directory-React/static/js/main.60887d2f.chunk.js",
+    "main.js.map": "/shakofa/Employee-Directory-React/static/js/main.60887d2f.chunk.js.map",
+    "runtime-main.js": "/shakofa/Employee-Directory-React/static/js/runtime-main.d7d9dbba.js",
+    "runtime-main.js.map": "/shakofa/Employee-Directory-React/static/js/runtime-main.d7d9dbba.js.map",
+    "static/js/2.c630ae9b.chunk.js": "/shakofa/Employee-Directory-React/static/js/2.c630ae9b.chunk.js",
+    "static/js/2.c630ae9b.chunk.js.map": "/shakofa/Employee-Directory-React/static/js/2.c630ae9b.chunk.js.map",
+    "static/js/3.afa5fb40.chunk.js": "/shakofa/Employee-Directory-React/static/js/3.afa5fb40.chunk.js",
+    "static/js/3.afa5fb40.chunk.js.map": "/shakofa/Employee-Directory-React/static/js/3.afa5fb40.chunk.js.map",
+    "index.html": "/shakofa/Employee-Directory-React/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/shakofa/Employee-Directory-React/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c630ae9b.chunk.js.LICENSE.txt": "/shakofa/Employee-Directory-React/static/js/2.c630ae9b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/shakofa/Employee-Directory-React/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7d9dbba.js",
+    "static/js/2.c630ae9b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.60887d2f.chunk.js"
+  ]
+}
