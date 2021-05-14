@@ -1,12 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import Main from "./Components/Main";
+import Wrapper from "./Components/Wrapper";
+import Header from "./Components/Header";
+
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-     <h1>React test</h1>
+      <Wrapper>
+        <Header />
+        <Main />
+      </Wrapper>
     </div>
   );
 }
 
 export default App;
+

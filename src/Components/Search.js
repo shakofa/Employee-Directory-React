@@ -1,9 +1,9 @@
 import React from "react";
-import "../styles/SearchBox.css";
+//import "../styles/SearchBox.css";
 
-function SearchBox({ handleSearchChange }) {
+function Search({ handleSearchChange }) {
   return (
-    <div className="searchbox">
+    <div className="search">
       <form className="form-inline">
         <input
           className="form-control"
@@ -16,4 +16,4 @@ function SearchBox({ handleSearchChange }) {
     </div>
   );
 }
-export default SearchBox;
+export default Search;
