@@ -1,5 +1,6 @@
 import React from "react";
-//import "../styles/SearchBox.css";
+import "../Styles/Search.css";
+import{ Button} from "react-bootstrap";
 
 function Search({ handleSearchChange }) {
   return (
@@ -12,7 +13,9 @@ function Search({ handleSearchChange }) {
           aria-label="Search"
           onChange={e => handleSearchChange(e)}
         />
+        <Button onClick={handleSearchChange} variant="outline-black">Search</Button>
       </form>
+      
     </div>
   );
 }

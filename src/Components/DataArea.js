@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import DataTable from "./DataTable";
 import Navbar from "./Navbar";
 import API from "../utils/API";
-//import "../styles/DataArea.css";
+import "../Styles/DArea.css";
 
 export default class DataArea extends Component {
   state = {
@@ -32,7 +32,7 @@ export default class DataArea extends Component {
 
     const compareFnc = (a, b) => {
       if (this.state.order === "ascend") {
-        // account for missing values
+        // make account for missing values
         if (a[heading] === undefined) {
           return 1;
         } else if (b[heading] === undefined) {
