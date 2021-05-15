@@ -1,6 +1,5 @@
 {
-  "homepage":
- " https://git.heroku.com/employee-react-1.git",
+  "homepage":"https://shakofa.github.io/Employee-Directory-React",
   "name": "employee-directory",
   "version": "0.1.0",
   "engines": {
@@ -55,4 +54,3 @@
 
 
 
-// "https://shakofa.github.io/Employee-Directory-React",
