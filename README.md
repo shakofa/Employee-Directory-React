@@ -5,7 +5,7 @@ This app utilizes an API to populate random users and then create a directory.A 
 <img src="public\Screenshot (64).png" height="600" width="800">
 
 ## Deployed Link
-()[https://shakofa.github.io/Employee-Directory-React/]
+[https://shakofa.github.io/Employee-Directory-React/]
 
 ## Direction
 * Copy and paste the src folder in the project directory, and run:
